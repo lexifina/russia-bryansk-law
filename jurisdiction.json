@@ -1,0 +1,11 @@
+{
+  "path": "ru-bry",
+  "code": "RU-BRY",
+  "name": "Bryansk Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-bryansk-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
