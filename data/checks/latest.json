@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:58:17Z",
+ "generated": "2026-11-26T06:15:11Z",
  "latest": {
   "pravo-bryansk|russia/bryansk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1441,
     "source_in_scope": 1441
    },
-   "check_id": "ru-pravo-bryansk-20261125T051726Z",
+   "check_id": "ru-pravo-bryansk-20261126T051951Z",
    "commits": null,
    "corpus": "russia/bryansk/acts",
    "error": null,
-   "finished": "2026-11-25T05:18:03Z",
+   "finished": "2026-11-26T05:20:28Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region32: 1441 law-type documents listed (every page read); 1441 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1441 law-type documents in block region32; newest published 2026-11-23",
    "source": "pravo-bryansk",
-   "started": "2026-11-25T05:17:26Z",
+   "started": "2026-11-26T05:19:51Z",
    "unexplained": 0,
    "update": {
     "parts": []
