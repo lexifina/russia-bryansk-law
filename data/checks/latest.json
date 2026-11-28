@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:07:52Z",
+ "generated": "2026-11-28T06:22:12Z",
  "latest": {
   "pravo-bryansk|russia/bryansk/acts": {
    "attempt": 1,
@@ -13,38 +13,25 @@
    },
    "census": {
     "checked": 1449,
-    "current": 1441,
+    "current": 1449,
     "gone": 0,
-    "held": 1441,
-    "newest_in_repo": "2026-11-23",
-    "pending": 8,
-    "repo": 1441,
+    "held": 1449,
+    "newest_in_repo": "2026-11-26",
+    "pending": 0,
+    "repo": 1449,
     "source_in_scope": 1449
    },
-   "check_id": "ru-pravo-bryansk-20261127T051556Z",
-   "commits": {
-    "count": 2,
-    "from": "509a39778cc204a2569c184846d9e375b6871bf2",
-    "to": "0e146879a88c4b31181fa98946ebbdcc4206c9f7"
-   },
+   "check_id": "ru-pravo-bryansk-20261128T052418Z",
+   "commits": null,
    "corpus": "russia/bryansk/acts",
    "error": null,
-   "finished": "2026-11-27T05:16:45Z",
+   "finished": "2026-11-28T05:24:59Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region32: 1449 law-type documents listed (every page read); 1441 held here; 8 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region32: 1449 law-type documents listed (every page read); 1449 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "3200202611260001",
-     "3200202611260002",
-     "3200202611260003",
-     "3200202611260004",
-     "3200202611260005",
-     "3200202611260006",
-     "3200202611260007",
-     "3200202611260008"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -52,35 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "3200202611260001",
-     "3200202611260002",
-     "3200202611260003",
-     "3200202611260004",
-     "3200202611260005",
-     "3200202611260006",
-     "3200202611260007",
-     "3200202611260008"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1449 law-type documents in block region32; newest published 2026-11-26",
    "source": "pravo-bryansk",
-   "started": "2026-11-27T05:15:56Z",
+   "started": "2026-11-28T05:24:18Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261127-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

@@ -6,6 +6,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Bryansk Oblast: Official Internet Portal of Legal Information (region32)](http://publication.pravo.gov.ru/documents/block/region32) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-27 05:15 UTC | watched |
+| [Bryansk Oblast: Official Internet Portal of Legal Information (region32)](http://publication.pravo.gov.ru/documents/block/region32) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-28 05:24 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
